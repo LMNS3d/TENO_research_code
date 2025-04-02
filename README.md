@@ -10,4 +10,6 @@ Fu, Lin; Hu, Xiangyu; Adams, Nikolaus; A family of high-order targeted ENO schem
 
 Liang, Tian; Fu, Lin; A novel finite-difference converged ENO scheme for steady-state simulations of Euler equations, Journal of Computational Physics, 519 (2024): 113386.
 
+If you figure out any bugs, please contact: bingqiansi@163.com
+
 
